@@ -14,3 +14,11 @@ form{
     background-color: rgb(211, 43, 1);
     color: orange;
 }
+#text01{
+    border-radius: 5px;
+    border-style: dotted;
+}
+#email01{
+    border-radius: 5px;
+    border-style: dotted;
+}

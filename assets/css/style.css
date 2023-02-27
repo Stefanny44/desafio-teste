@@ -16,9 +16,11 @@ form{
 }
 #text01{
     border-radius: 5px;
-    border-style: dotted;
 }
 #email01{
     border-radius: 5px;
-    border-style: dotted;
+}
+#text01:focus{
+    outline: 0;
+    border-style: none;
 }

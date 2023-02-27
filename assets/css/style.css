@@ -9,10 +9,12 @@ form{
     margin: auto;
     color: rgb(255, 255, 255);
     background-color: rgb(69, 136, 69);
+    margin-top: 15px;
 }
 #submit01:hover{
     background-color: rgb(211, 43, 1);
     color: orange;
+    
 }
 #text01{
     border-radius: 5px;
@@ -20,7 +22,16 @@ form{
 #email01{
     border-radius: 5px;
 }
+#email02{
+    margin-top: 15px;
+}
 #text01:focus{
     outline: 0;
     border-style: none;
+}
+#senha01{
+    border-radius: 5px;
+}
+#senha02{
+    margin-top: 15px;
 }
